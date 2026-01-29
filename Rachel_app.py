@@ -1,4 +1,3 @@
-pip install streamlit_extras
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -99,3 +98,4 @@ st.markdown("---")
 st.center = True
 
 st.markdown("<div style='text-align: center'> © 2026 Rachel van Duyn | Built with Streamlit & Python </div>", unsafe_allow_html=True)
+

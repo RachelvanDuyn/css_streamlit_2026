@@ -90,13 +90,13 @@ with col3:
 st.header("Contact Information")
 st.markdown(f"""
 **LinkedIn:** {linkedin}  
-**GitHub:** https://github.com/RachelvanDuyn  
-**Email:** rachelvanduyn@icloud.com
+**GitHub:** https://github.com/RachelvanDuyn 
 """)
 
 st.markdown("---")
 st.center = True
 
 st.markdown("<div style='text-align: center'> © 2026 Rachel van Duyn | Built with Streamlit & Python </div>", unsafe_allow_html=True)
+
 
 
